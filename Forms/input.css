@@ -1,0 +1,40 @@
+.form {
+    margin-top: 10px;
+}
+
+.btn {
+    background-color: #769FCD;
+    color: white;
+    display:inline-block;
+    padding: 0 60px 0;
+    margin-top: 5px;
+    margin-right: 80px;
+}
+
+.forgot{
+    display:inline-block;
+    margin-left:135px;
+  
+  }
+
+.flex {
+    margin-top: 10px;
+    font-size: small;
+}  
+
+.para {
+    margin-top: 10px;
+    font-size: small;
+}
+
+.reg {
+    margin-left: 130px;
+}
+
+.ph{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  
+}
+
+
